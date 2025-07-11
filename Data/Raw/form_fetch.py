@@ -8,8 +8,8 @@ import json
 import csv
 
 # Paths
-in_path  = "data/raw/form4_api_response.json"
-out_dir  = "data/processed"
+in_path  = "Data/Raw/form4_api_response.json"
+out_dir  = "Data/Processed"
 out_path = os.path.join(out_dir, "form4_api.csv")
 
 # Ensure output dir
